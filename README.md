@@ -1,6 +1,6 @@
 # Django Filter Example
 
-Example used in the blog post [How to Dynamically Filter QuerySets](https://simpleisbetterthancomplex.com/tutorial/2016/11/28/how-to-dynamically-filter-querysets.html)
+Example used in the blog post [How to Filter QuerySets Dynamically](https://simpleisbetterthancomplex.com/tutorial/2016/11/28/how-to-filter-querysets-dynamically.html)
 
 ## Running Locally
 
